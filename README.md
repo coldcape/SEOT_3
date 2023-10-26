@@ -14,7 +14,7 @@ For å oppnå dette, ble følgende trinn fulgt:
 
 ## 3. Resultater
 
-Etter å ha pushet endringene til GitHub, ble "Actions"-fanen i repositoryet sjekket. Det ble observert at:
+Etter å ha pushet endringene til GitHub, ble "Actions"-fanen i repoet sjekket.
 
 - Testene ble automatisk kjørt ved hver push ved hjelp av Conda.
 - GitHub Actions-loggen viste at testene kjørte som forventet og passerte uten feil.
