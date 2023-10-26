@@ -1,7 +1,9 @@
 # SEOT_3
 # Rapport for GitHub Actions Oppsett med Python, pytest og Conda
 
-Prosedyre
+Link til REPO: https://github.com/coldcape/SEOT_3.git
+
+## Prosedyre
 
 For å oppnå dette, ble følgende trinn fulgt:
 
@@ -12,7 +14,7 @@ For å oppnå dette, ble følgende trinn fulgt:
     - Denne filen definerer en workflow som setter opp Python via Conda, installerer nødvendige avhengigheter (inkludert `pytest`), og kjører testene.
 - **Testkjøring**: Etter å ha satt opp workflowen, ble en testcommit og push utført for å verifisere at GitHub Actions kjørte testene som forventet ved hjelp av Conda.
 
-## 3. Resultater
+## Resultater
 
 Etter å ha pushet endringene til GitHub, ble "Actions"-fanen i repoet sjekket.
 
